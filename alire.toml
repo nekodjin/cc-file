@@ -1,0 +1,10 @@
+name = "cc_file"
+description = "A file(1) implementation for CC Coprojects."
+version = "0.1.0-dev"
+
+authors = ["Avery Antónia Rosenblum-O'Connor"]
+maintainers = ["Avery Antónia Rosenblum-O'Connor <contact@nekodjin.org>"]
+maintainers-logins = ["nekodjin"]
+licenses = "MIT"
+website = ""
+tags = []
